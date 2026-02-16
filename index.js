@@ -112,7 +112,7 @@ const port = process.env.PORT || 9090;
 
 ╭─〔 *🤖 𝚂𝙷𝙰𝚅𝙸𝚈𝙰-𝙼𝙳* 〕  
 ├─▸ *Ultra Super Fast Powerfull ⚠️* 
-├─▸ *Powered By 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳*  
+├─▸ *Powered By 𝚂𝙷𝙰𝚅𝙸𝚈𝙰-𝙼𝙳 🌙*  
 ╰─➤ *Your Smart WhatsApp Bot Is Ready To Use 🍁!*
 
 *❤️ Thank you for Choosing 𝚂𝙷𝙰𝚅𝙸𝚈𝙰-𝙼𝙳!*
